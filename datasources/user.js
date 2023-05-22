@@ -26,7 +26,7 @@ class UserService extends RESTDataSource {
   //   console.log("bbb");
   //   return await this.post('/api/postUserDetails',user)
   // }
-
+  //'url':'http://localhost:8000/api/postUserDetails',
   // async postUserId(user){
   //   try {
   //     const response = await axios.post('http://localhost:8000/api/postUserDetails',user);
